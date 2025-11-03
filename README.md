@@ -1,6 +1,6 @@
 # 🖱️🍪 Python AutoClicker
 
-A lightweight Python autoclicker that inputs left mouse button presses whenever 
+A lightweight Python autoclicker that inputs left mouse button presses whenever active 
 
 ---
 
